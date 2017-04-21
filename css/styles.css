@@ -22,7 +22,10 @@ img {
 }
 
 body {
-  background-color: #white;
+  background-color: #9de8a3;
   background-image: url();
   background-size: cover;
+}
+footer{
+  font-weight: bolder;
 }
