@@ -1,15 +1,28 @@
-img{
-  float: left;
+img {
+  float: right;
+  margin-right: 10px;
 }
-.me{
+.list{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.me {
   border: 4px solid black;
   padding: 5px;
   margin: 10px;
   text-align: center;
-  background-color: #e1efed;
-
+  background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkYtL-_cVqtWhHkCGve4tt3NS2jbxRgyfahzp3arEFQBp8l_oGPQ);
+  color: #27a530;
 
 }
-body{
 
+.list {
+  float: left;
+  font-size: 20px;
+}
+
+body {
+  background-color: #white;
+  background-image: url();
+  background-size: cover;
 }
